@@ -1,0 +1,9 @@
+{
+	"sessionSecret": "<RandomString>",
+	"dbUri": "mongodb://localhost/chatModel",
+	"redis": {
+		"host": "127.0.0.1",
+		"port": 6379,
+		"password": ""
+	}
+}
